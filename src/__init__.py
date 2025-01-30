@@ -1,0 +1,1 @@
+from .ryuka_personality import ryuka_response
